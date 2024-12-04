@@ -5,7 +5,7 @@ What i did first is to install neurite and voxelmorph through these commands:
 - pip install https://github.com/adalca/neurite/archive/refs/heads/dev.zip
 - pip install https://github.com/voxelmorph/voxelmorph/archive/refs/heads/dev.zip
 
-And that images have to be normalized between 0 and 1 - running a py script file on the images .nii / .nii,gz
+And that images have to be normalized between 0 and 1 - running a py script file on the images .nii / .nii,gz to have them normalized
 
 Then getting the register.py script from here: 
 - https://github.com/voxelmorph/voxelmorph/blob/dev/scripts/tf/register.py
